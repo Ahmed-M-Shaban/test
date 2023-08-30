@@ -1,0 +1,11 @@
+locally:
+git add (filename or . for all files)     ==> staging area
+git commit (-m "message")[Optional]       ==> git repository
+git checkout
+git diff filename
+git status
+git log
+remotly:
+git remote add origin https://github.com/Ahmed-M-Shaban/test.git
+git branch -M main
+git push -u origin main
