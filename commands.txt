@@ -9,3 +9,13 @@ remotly:
 git remote add origin https://github.com/Ahmed-M-Shaban/test.git
 git branch -M main
 git push -u origin main
+
+
+git rm --cached -r .                    ==> removing all files from staging area
+
+git clone link                          ==> cloning git repository
+
+git branch name                         ==> create new branch
+git branch                              ==> list all branchs
+grt checkout branch-name                ==> switch to another branch
+git merge branch-name                   ==> merging two branchs
